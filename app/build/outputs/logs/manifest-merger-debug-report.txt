@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7ab5ad3214fc3b83a4e2ef63f80efe5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3b3a5bbd2c9b72886c0de1d7bcf8d4a8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3a8b62efa0e7f2ae5f34c935c0a4375f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\553e1f4c4090a8bba9a4f2259173d1ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e31846e737899a519396f4be8402e09e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f3495f7e2feb7771f1e4f4ab090bdfc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\cc9691a0b95e27b95c64f13341fb9235\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\db9ec38b4ba5789304d24dc04c7ba11b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\53f1e8ac92df86724c1139493a6260d7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b8d52588afebe00d563ef8d9b6da14e5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\84e08db7ab0b8c40cd2336aa117a7bb3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\29f7c7715146fafe30281102769a6921\AndroidManifest.xml:17:1-22:12
+INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml
+		INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml
+		ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml
+		ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3b3a5bbd2c9b72886c0de1d7bcf8d4a8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3b3a5bbd2c9b72886c0de1d7bcf8d4a8\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.kronos.kaos.mcc.MainActivity
+ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml
+INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7ab5ad3214fc3b83a4e2ef63f80efe5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7ab5ad3214fc3b83a4e2ef63f80efe5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3b3a5bbd2c9b72886c0de1d7bcf8d4a8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3b3a5bbd2c9b72886c0de1d7bcf8d4a8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3a8b62efa0e7f2ae5f34c935c0a4375f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3a8b62efa0e7f2ae5f34c935c0a4375f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\553e1f4c4090a8bba9a4f2259173d1ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\553e1f4c4090a8bba9a4f2259173d1ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e31846e737899a519396f4be8402e09e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e31846e737899a519396f4be8402e09e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f3495f7e2feb7771f1e4f4ab090bdfc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f3495f7e2feb7771f1e4f4ab090bdfc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\cc9691a0b95e27b95c64f13341fb9235\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\cc9691a0b95e27b95c64f13341fb9235\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\db9ec38b4ba5789304d24dc04c7ba11b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\db9ec38b4ba5789304d24dc04c7ba11b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\53f1e8ac92df86724c1139493a6260d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\53f1e8ac92df86724c1139493a6260d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b8d52588afebe00d563ef8d9b6da14e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b8d52588afebe00d563ef8d9b6da14e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\84e08db7ab0b8c40cd2336aa117a7bb3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\84e08db7ab0b8c40cd2336aa117a7bb3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\29f7c7715146fafe30281102769a6921\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\kaust\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\29f7c7715146fafe30281102769a6921\AndroidManifest.xml:20:5-44
+INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml
+INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml
+		ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml
+		INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml
+		ADDED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml
+		INJECTED from K:\WorkSpace\AndroidStudioProjects\MCC\app\src\main\AndroidManifest.xml
